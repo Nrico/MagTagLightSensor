@@ -23,5 +23,5 @@ All the code I used is really re-used Adafruit examples.
 
 - adafruit_display_text
 - adafruit_magtag
-- adafuit_simple_text_display.mpy
+- adafruit_simple_text_display.mpy
 - simpleio.mpy
