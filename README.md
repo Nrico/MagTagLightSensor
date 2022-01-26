@@ -10,3 +10,11 @@ You will need to transfer "code.py" from this repository onto your MagTag.
 The code uses a few libraries, pre-written code that makes things work on your device. The code currently usese the 7.0 version of CircuitPython and the associated libraries for 7.0. 
 
 ![plot](./magtag-light-sensor.jpg)
+
+Adafruit Helper information that is specific to MagTag https://circuitpython.readthedocs.io/projects/magtag/en/latest/
+
+Installing CircuitPython on your MagTag https://learn.adafruit.com/adafruit-magtag/circuitpython
+
+CircuitPython Libraries https://circuitpython.org/libraries
+
+All the code I used is really re-used Adafruit examples.
