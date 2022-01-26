@@ -21,7 +21,7 @@ All the code I used is really re-used Adafruit examples.
 
 # Important Libraries to Include in your Lib folder
 
-adafruit_display_text
-adafruit_magtag
-adafuit_simple_text_display.mpy
-simpleio.mpy
+- adafruit_display_text
+- adafruit_magtag
+- adafuit_simple_text_display.mpy
+- simpleio.mpy
