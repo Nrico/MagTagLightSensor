@@ -7,7 +7,7 @@ The code is written in CircuitPython. Chances are, your MagTag is already set up
 
 You will need to transfer "code.py" from this repository onto your MagTag.
 
-The code uses a few libraries, pre-written code that makes things work on your device. The code currently usese the 7.0 version of CircuitPython and the associated libraries for 7.0. 
+The code uses a few libraries, pre-written code that makes things work on your device. The code currently uses the 7.0 version of CircuitPython and the associated libraries for 7.0. 
 
 ![plot](./magtag-light-sensor.jpg)
 
